@@ -1,6 +1,6 @@
 A Japanese college student.  
 department: Faculty of Information Technology  
-Interest: Machine learning, Operating system, Security engineering
+Interest: Machine learning, Operating system, Security engineering　　
 Hobby: Raspberry Pi
 
 <!---
