@@ -1,6 +1,8 @@
-A Japanese College Student.  
-Department of Computer Science,
-Faculty of Information Technology
+<div align="center">
+  A Japanese College Student.<p>
+  Department of Computer Science,
+  Faculty of Information Technology
+</div>
 
 <p align="center"> 
   <img alt="Top Langs" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keisuke-Magara&theme=nord" />
