@@ -3,8 +3,8 @@ Department of Computer Science,
 Faculty of Information Technology
 
 <p align="center"> 
-  <img alt="Top Langs" height="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keisuke-Magara&theme=nord" />
-  <img alt="Github stats" height="280px" src="https://github-readme-stats.vercel.app/api?username=Keisuke-Magara&theme=nord" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keisuke-Magara&theme=nord" />
+  <img alt="Github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Keisuke-Magara&theme=nord" />
 <p align="center">
   <img alt="Trophy" height="145px" src="https://github-profile-trophy.vercel.app/?username=Keisuke-Magara&theme=nord&column=7" />
 </p>
