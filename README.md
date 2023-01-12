@@ -1,7 +1,8 @@
 <div align="center">
   A Japanese College Student.<p>
   Department of Computer Science,
-  Faculty of Information Technology
+  Faculty of Information Technology  
+  Contact : <a href="mailto:Keisuke-Magara.dev@outlook.com">Keisuke-Magara.dev@outlook.com</a>
 </div>
 
 <p align="center"> 
